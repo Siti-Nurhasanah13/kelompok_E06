@@ -45,7 +45,7 @@ ul {
 	background-color: #DAA520;
 	height: 2px;
 	box-sizing: border-box;
-	width: 90px;
+	width: 100px;
 }
 
 .footer-col ul li:not(:last-child) {
@@ -70,8 +70,8 @@ ul {
 
 .footer-col .social-links a {
 	display: inline-block;
-	height: 40px;
-	width: 40px;
+	height: 35px;
+	width: 35px;
 	background-color: rgba(255,255,255,0.3);
 	margin: 0 10px 10px 0;
 	text-align: center;
@@ -82,7 +82,7 @@ ul {
 }
 
 .footer-col .social-links a:hover {
-	color: #008000;
+	color: #004729;
 	background-color: #fff;
 }
 
